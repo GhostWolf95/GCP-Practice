@@ -1,0 +1,3 @@
+
+class ServicesErrorExceptions(Exception):
+    pass
